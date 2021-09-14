@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583278633 source:c:\users\emmanuel\code\simmold\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+
